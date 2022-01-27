@@ -1,0 +1,6 @@
+BenchmarkDotNet.Artifacts
+bin
+obj
+*.pdf
+README.md
+test*.txt
